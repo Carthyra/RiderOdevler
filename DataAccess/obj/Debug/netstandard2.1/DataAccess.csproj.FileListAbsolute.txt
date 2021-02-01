@@ -1,0 +1,12 @@
+/Users/ulas/Documents/Kodlama.io/RiderProjects/ReCapProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.deps.json
+/Users/ulas/Documents/Kodlama.io/RiderProjects/ReCapProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.dll
+/Users/ulas/Documents/Kodlama.io/RiderProjects/ReCapProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.pdb
+/Users/ulas/Documents/Kodlama.io/RiderProjects/ReCapProject/DataAccess/bin/Debug/netstandard2.1/Entities.dll
+/Users/ulas/Documents/Kodlama.io/RiderProjects/ReCapProject/DataAccess/bin/Debug/netstandard2.1/Entities.pdb
+/Users/ulas/Documents/Kodlama.io/RiderProjects/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csprojAssemblyReference.cache
+/Users/ulas/Documents/Kodlama.io/RiderProjects/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.AssemblyInfoInputs.cache
+/Users/ulas/Documents/Kodlama.io/RiderProjects/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.AssemblyInfo.cs
+/Users/ulas/Documents/Kodlama.io/RiderProjects/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.CoreCompileInputs.cache
+/Users/ulas/Documents/Kodlama.io/RiderProjects/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.CopyComplete
+/Users/ulas/Documents/Kodlama.io/RiderProjects/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.dll
+/Users/ulas/Documents/Kodlama.io/RiderProjects/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.pdb
